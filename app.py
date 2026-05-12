@@ -341,7 +341,7 @@ def update_admission_trends(chart_type, selected_condition):
     
     return fig
 
-# File upload callback 
+## File upload callback 
 @app.callback(
     Output(component_id="output-data", component_property="children"),
     Input(component_id="upload-data", component_property="contents"),
