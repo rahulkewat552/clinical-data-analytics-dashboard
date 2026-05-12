@@ -183,7 +183,7 @@ app.layout = dbc.Container([
 ], fluid=True)
 
 
-# CALLBACK
+## CALLBACK
 
 @app.callback(
     Output(component_id="age-distribution", component_property="figure"),
