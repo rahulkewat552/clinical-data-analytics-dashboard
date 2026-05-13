@@ -119,7 +119,7 @@ app.layout = dbc.Container([
         ], width=12)
     ]),
     
-    # graph to show billing amount distribution with a slider
+    ## graph to show billing amount distribution with a slider
     dbc.Row([
         dbc.Col([
             dbc.Card([
