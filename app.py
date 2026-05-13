@@ -164,7 +164,7 @@ app.layout = dbc.Container([
         ], width=12)
     ]),
     
-    # File upload section ( CSV upload feature)
+    ## File upload section ( CSV upload feature)
     dbc.Row([
         dbc.Col([
             dcc.Upload(
