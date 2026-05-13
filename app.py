@@ -139,7 +139,7 @@ app.layout = dbc.Container([
         ], width=12)
     ]),
     
-    # graph to display the trends in admission
+    ## graph to display the trends in admission
     dbc.Row([
         dbc.Col([
             dbc.Card([
