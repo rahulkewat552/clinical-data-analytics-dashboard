@@ -107,7 +107,7 @@ app.layout = dbc.Container([
         ], width=6)  
     ]),
  
-    # added Graph to show Insurance Provider Data
+    ## added Graph to show Insurance Provider Data
     dbc.Row([
         dbc.Col([
             dbc.Card([
