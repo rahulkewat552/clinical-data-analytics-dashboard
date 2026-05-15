@@ -78,7 +78,7 @@ app.layout = dbc.Container([
         dbc.Col(html.Div(f"Average Billing Amount: {avg_billing:,.2f}", className="text-center my-3 top-text"), width=12)
     ], className="mb-5"),
 
-    # showing age distribution based gender
+    ## showing age distribution based gender
     dbc.Row([
         dbc.Col([
             dbc.Card([
