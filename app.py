@@ -60,7 +60,7 @@ def get_metrics():
 num_records, avg_billing = get_metrics()
 
 
-# DASH APP INITIALIZATION
+## DASH APP INITIALIZATION
 
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP, "assets/style.css"])
