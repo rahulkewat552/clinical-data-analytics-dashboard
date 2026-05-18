@@ -95,7 +95,7 @@ app.layout = dbc.Container([
             ])
         ], width=6),
 
-        # showing medical condition percentages (pie chart)
+        # showing medical condition percentages(pie chart)
         dbc.Col([
             dbc.Card(
                 dbc.CardBody([
