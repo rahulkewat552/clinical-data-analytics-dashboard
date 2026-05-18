@@ -40,11 +40,12 @@ python scripts/csv_to_sqlite.py
 
 # Run app
 python app.py
+```
 
-The app will start on http://127.0.0.1:8050```
+The app will start on http://127.0.0.1:8050
 
 ## Project Structure
-text
+```text
 ├── app.py                 # Main application
 ├── scripts/
 │   └── csv_to_sqlite.py   # Database setup
@@ -54,6 +55,7 @@ text
 ├── assets/
 │   └── style.css
 └── screenshots/
+```
 
 ## Dataset
 
