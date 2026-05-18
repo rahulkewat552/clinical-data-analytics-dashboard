@@ -1,4 +1,4 @@
-# 🏥 Clinical Data Analytics Dashboard
+## 🏥 Clinical Data Analytics Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Dash](https://img.shields.io/badge/Dash-2.14.0-green)
